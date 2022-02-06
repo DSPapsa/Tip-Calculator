@@ -1,0 +1,12 @@
+
+     h2.rms{    
+        font-family: ui-monospace;
+        font-size: 25px;
+        color: rgb(8, 10, 10);
+        background-color: #e2d5ce;
+        width: 785px;
+        margin-left: 0.1%;
+        font-style: italic;  
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px; 
+    }

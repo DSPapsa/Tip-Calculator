@@ -1,0 +1,13 @@
+nav{
+    font-size: 25px;
+    color: rgb(10, 12, 12);
+    font-family: ui-monospace;
+    padding: 10px;
+    background-color: #e2d5ce;
+    width: 766px;
+    text-align: center;
+    margin-left: 0%;
+    font-style: italic;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
